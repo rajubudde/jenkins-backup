@@ -2,3 +2,51 @@ Inbound agent connected from 192.168.22.87/192.168.22.87
 Remoting version: 3.29
 This is a Windows agent
 Agent successfully connected and online
+ERROR: Failed to monitor for Free Disk Space
+java.util.concurrent.TimeoutException
+	at hudson.remoting.Request$1.get(Request.java:316)
+	at hudson.remoting.Request$1.get(Request.java:240)
+	at hudson.remoting.FutureAdapter.get(FutureAdapter.java:59)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitorDetailed(AbstractAsyncNodeMonitorDescriptor.java:114)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitor(AbstractAsyncNodeMonitorDescriptor.java:78)
+	at hudson.node_monitors.AbstractNodeMonitorDescriptor$Record.run(AbstractNodeMonitorDescriptor.java:303)
+ERROR: Failed to monitor for Response Time
+java.util.concurrent.TimeoutException
+	at hudson.remoting.Request$1.get(Request.java:316)
+	at hudson.remoting.Request$1.get(Request.java:240)
+	at hudson.remoting.FutureAdapter.get(FutureAdapter.java:59)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitorDetailed(AbstractAsyncNodeMonitorDescriptor.java:114)
+	at hudson.node_monitors.ResponseTimeMonitor$1.monitor(ResponseTimeMonitor.java:57)
+	at hudson.node_monitors.AbstractNodeMonitorDescriptor$Record.run(AbstractNodeMonitorDescriptor.java:303)
+ERROR: Failed to monitor for Architecture
+java.util.concurrent.TimeoutException
+	at hudson.remoting.Request$1.get(Request.java:316)
+	at hudson.remoting.Request$1.get(Request.java:240)
+	at hudson.remoting.FutureAdapter.get(FutureAdapter.java:59)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitorDetailed(AbstractAsyncNodeMonitorDescriptor.java:114)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitor(AbstractAsyncNodeMonitorDescriptor.java:78)
+	at hudson.node_monitors.AbstractNodeMonitorDescriptor$Record.run(AbstractNodeMonitorDescriptor.java:303)
+ERROR: Failed to monitor for Clock Difference
+java.util.concurrent.TimeoutException
+	at hudson.remoting.Request$1.get(Request.java:316)
+	at hudson.remoting.Request$1.get(Request.java:240)
+	at hudson.remoting.FutureAdapter.get(FutureAdapter.java:59)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitorDetailed(AbstractAsyncNodeMonitorDescriptor.java:114)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitor(AbstractAsyncNodeMonitorDescriptor.java:78)
+	at hudson.node_monitors.AbstractNodeMonitorDescriptor$Record.run(AbstractNodeMonitorDescriptor.java:303)
+ERROR: Failed to monitor for Free Swap Space
+java.util.concurrent.TimeoutException
+	at hudson.remoting.Request$1.get(Request.java:316)
+	at hudson.remoting.Request$1.get(Request.java:240)
+	at hudson.remoting.FutureAdapter.get(FutureAdapter.java:59)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitorDetailed(AbstractAsyncNodeMonitorDescriptor.java:114)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitor(AbstractAsyncNodeMonitorDescriptor.java:78)
+	at hudson.node_monitors.AbstractNodeMonitorDescriptor$Record.run(AbstractNodeMonitorDescriptor.java:303)
+ERROR: Failed to monitor for Free Temp Space
+java.util.concurrent.TimeoutException
+	at hudson.remoting.Request$1.get(Request.java:316)
+	at hudson.remoting.Request$1.get(Request.java:240)
+	at hudson.remoting.FutureAdapter.get(FutureAdapter.java:59)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitorDetailed(AbstractAsyncNodeMonitorDescriptor.java:114)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitor(AbstractAsyncNodeMonitorDescriptor.java:78)
+	at hudson.node_monitors.AbstractNodeMonitorDescriptor$Record.run(AbstractNodeMonitorDescriptor.java:303)
