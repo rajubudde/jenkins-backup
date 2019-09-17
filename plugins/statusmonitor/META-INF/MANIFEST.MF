@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: jlf
+Build-Jdk: 1.6.0_29
+Extension-Name: statusmonitor
+Implementation-Title: statusmonitor
+Implementation-Version: 1.3
+Group-Id: org.jvnet.hudson.plugins
+Short-Name: statusmonitor
+Long-Name: Status Monitor Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Status+Monitor+Plugin
+Plugin-Version: 1.3
+Hudson-Version: 1.392
+Plugin-Developers: Ash Lux:ashlux:ashlux@gmail.com,redsolo::,Jesse Far
+ inacci:jieryn:jieryn@gmail.com
+

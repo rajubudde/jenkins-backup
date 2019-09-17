@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-12 07:23:01.176 UTC</timestamp>
+  <original>
+    <name>backenddev/devpipe</name>
+    <number>7</number>
+  </original>
+  <md5sum>8c75fdd15c9caf00dfa429809a4b776f</md5sum>
+  <fileName>tomcatbuild.tar.gz</fileName>
+  <usages>
+    <entry>
+      <string>backenddev/devpipe</string>
+      <ranges>7</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

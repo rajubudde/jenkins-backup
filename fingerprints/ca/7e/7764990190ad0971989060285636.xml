@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-11 07:07:31.943 UTC</timestamp>
+  <original>
+    <name>mavenbuild</name>
+    <number>5</number>
+  </original>
+  <md5sum>ca7e7764990190ad0971989060285636</md5sum>
+  <fileName>demosrv</fileName>
+  <usages>
+    <entry>
+      <string>mavenbuild</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

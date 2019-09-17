@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-11 07:07:32.299 UTC</timestamp>
+  <original>
+    <name>mavenbuild</name>
+    <number>5</number>
+  </original>
+  <md5sum>9de52e16b119d8e5cbd78e1d8e6c4004</md5sum>
+  <fileName>tomcat-api-8.5.23.jar</fileName>
+  <usages>
+    <entry>
+      <string>mavenbuild</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

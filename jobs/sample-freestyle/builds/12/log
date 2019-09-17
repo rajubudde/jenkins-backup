@@ -1,0 +1,22 @@
+Started by upstream project "[8mha:////4CXf+KX8mBuVIhXBTaYY3J7GQm+a1KUKNLOH6yODlls1AAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZx/az8JP3ixNyCnFTdtKLU1OKSypxUI30A3R4Eh8wAAAA=[0msample-freestyle2" build number [8mha:////4CfF6H0heKSF0w7h96wrs4+WBpuNdCVSfUoTCsFnERDoAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgn9rPwk/eLE3IKcVN20otTU4pLKnFQjfWMAI5ozbM0AAAA=[0m3
+originally caused by:
+ Started by user [8mha:////4AmSyVJeQh0E3DDSy1E0sr1cM2Dies6hD2Un68EZjDwYAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building on master in workspace /var/lib/jenkins/workspace/sample-freestyle
+No credentials specified
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/rajubudde/real-time.git # timeout=10
+Fetching upstream changes from https://github.com/rajubudde/real-time.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/rajubudde/real-time.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 47ce799d0a096494bcf3b7c5415be8aaf65066ac (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 47ce799d0a096494bcf3b7c5415be8aaf65066ac
+Commit message: "Merge pull request #62 from overleaf/bg-patch-socket-io-frame-bug"
+ > git rev-list --no-walk 47ce799d0a096494bcf3b7c5415be8aaf65066ac # timeout=10
+ERROR: Unable to find a build for artifact copy from: sample-maven
+Archiving artifacts
+Finished: FAILURE

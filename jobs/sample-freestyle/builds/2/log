@@ -1,0 +1,13 @@
+Started by user [8mha:////4AmSyVJeQh0E3DDSy1E0sr1cM2Dies6hD2Un68EZjDwYAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building on master in workspace /var/lib/jenkins/workspace/sample-freestyle
+Installing JDK jdk-9.0.4-oth-JPR
+Downloading JDK from https://download.oracle.com/otn/java/jdk/9.0.4+11/c2514751926b4512b076cc82f959763f/jdk-9.0.4_linux-x64_bin.tar.gz
+[8mha:////4KaCFeXs/u1IQZlGdYOT1Y88yaz05zXNcP0gfslFwcZwAAAAsR+LCAAAAAAAAP9djDEOgkAQRUeMHsDSeAa2syE0YiFKaDjBRiaAjrub2cHANbyGNh7C43gHMVj5m/+a9x5vmHmGVd2W3prwaI23hOGud8jUmHNuBdfx/Rnf3CuAIIU5oamkzmDaMgksspO+akXaVKoQbkwVdQzLv1wy/jcG4yYBQOcGKAQiVaI/cuPE8qbP9QXVzxdryYf77SE1XjQRskIjyAljOUCj6QO30jxSwAAAAA==[0mYour Oracle account doesn't appear valid. Please specify a valid username/password
+ERROR: Unable to install JDK unless a valid username/password is provided.
+Archiving artifacts
+Installing JDK jdk-9.0.4-oth-JPR
+Downloading JDK from https://download.oracle.com/otn/java/jdk/9.0.4+11/c2514751926b4512b076cc82f959763f/jdk-9.0.4_linux-x64_bin.tar.gz
+[8mha:////4KaCFeXs/u1IQZlGdYOT1Y88yaz05zXNcP0gfslFwcZwAAAAsR+LCAAAAAAAAP9djDEOgkAQRUeMHsDSeAa2syE0YiFKaDjBRiaAjrub2cHANbyGNh7C43gHMVj5m/+a9x5vmHmGVd2W3prwaI23hOGud8jUmHNuBdfx/Rnf3CuAIIU5oamkzmDaMgksspO+akXaVKoQbkwVdQzLv1wy/jcG4yYBQOcGKAQiVaI/cuPE8qbP9QXVzxdryYf77SE1XjQRskIjyAljOUCj6QO30jxSwAAAAA==[0mYour Oracle account doesn't appear valid. Please specify a valid username/password
+ERROR: Step ‘Archive the artifacts’ failed: Unable to install JDK unless a valid username/password is provided.
+Finished: FAILURE

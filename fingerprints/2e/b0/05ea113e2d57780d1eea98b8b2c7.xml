@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-11 07:07:31.725 UTC</timestamp>
+  <md5sum>2eb005ea113e2d57780d1eea98b8b2c7</md5sum>
+  <fileName>maven-wrapper.jar</fileName>
+  <usages>
+    <entry>
+      <string>mavenbuild</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

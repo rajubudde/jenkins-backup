@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-11 07:07:31.976 UTC</timestamp>
+  <original>
+    <name>mavenbuild</name>
+    <number>5</number>
+  </original>
+  <md5sum>c7b35bd30ad35c466db892c7e0061ae1</md5sum>
+  <fileName>HelloServlet.class</fileName>
+  <usages>
+    <entry>
+      <string>mavenbuild</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-11 07:07:32.21 UTC</timestamp>
+  <md5sum>8b97a8f54d71617fc302369330fd6321</md5sum>
+  <fileName>inputFiles.lst</fileName>
+  <usages>
+    <entry>
+      <string>mavenbuild</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

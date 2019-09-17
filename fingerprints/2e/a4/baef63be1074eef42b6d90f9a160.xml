@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-16 10:02:06.696 UTC</timestamp>
+  <original>
+    <name>sample-freestyle</name>
+    <number>7</number>
+  </original>
+  <md5sum>2ea4baef63be1074eef42b6d90f9a160</md5sum>
+  <fileName>app.coffee</fileName>
+  <usages>
+    <entry>
+      <string>sample-freestyle</string>
+      <ranges>7</ranges>
+    </entry>
+    <entry>
+      <string>sample-freestyle2</string>
+      <ranges>3-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

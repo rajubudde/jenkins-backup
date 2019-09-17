@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-11 07:07:32.369 UTC</timestamp>
+  <original>
+    <name>mavenbuild</name>
+    <number>5</number>
+  </original>
+  <md5sum>33e190a0f0745306de54fba90f381fc3</md5sum>
+  <fileName>ecj-3.12.3.jar</fileName>
+  <usages>
+    <entry>
+      <string>mavenbuild</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

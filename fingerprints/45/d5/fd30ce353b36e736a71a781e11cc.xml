@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-11 07:07:32.413 UTC</timestamp>
+  <original>
+    <name>mavenbuild</name>
+    <number>5</number>
+  </original>
+  <md5sum>45d5fd30ce353b36e736a71a781e11cc</md5sum>
+  <fileName>webpackage.tar.gz</fileName>
+  <usages>
+    <entry>
+      <string>mavenbuild</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

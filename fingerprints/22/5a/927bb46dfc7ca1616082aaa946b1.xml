@@ -1,0 +1,25 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-12 05:14:40.634 UTC</timestamp>
+  <original>
+    <name>webdev/indexpage</name>
+    <number>9</number>
+  </original>
+  <md5sum>225a927bb46dfc7ca1616082aaa946b1</md5sum>
+  <fileName>index.jsp</fileName>
+  <usages>
+    <entry>
+      <string>webdev/indexpage</string>
+      <ranges>9</ranges>
+    </entry>
+    <entry>
+      <string>backenddev/devpipe</string>
+      <ranges>1-5,7</ranges>
+    </entry>
+    <entry>
+      <string>backenddev/backend</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

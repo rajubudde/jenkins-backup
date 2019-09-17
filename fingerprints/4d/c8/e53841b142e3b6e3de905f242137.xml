@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-16 10:02:06.355 UTC</timestamp>
+  <original>
+    <name>sample-freestyle</name>
+    <number>7</number>
+  </original>
+  <md5sum>4dc8e53841b142e3b6e3de905f242137</md5sum>
+  <fileName>WebsocketLoadBalancerTests.coffee</fileName>
+  <usages>
+    <entry>
+      <string>sample-freestyle</string>
+      <ranges>7</ranges>
+    </entry>
+    <entry>
+      <string>sample-freestyle2</string>
+      <ranges>3-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

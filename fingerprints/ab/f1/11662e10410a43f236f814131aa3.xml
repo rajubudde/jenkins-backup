@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-09-16 10:02:06.312 UTC</timestamp>
+  <original>
+    <name>sample-freestyle</name>
+    <number>7</number>
+  </original>
+  <md5sum>abf111662e10410a43f236f814131aa3</md5sum>
+  <fileName>docker-compose.ci.yml</fileName>
+  <usages>
+    <entry>
+      <string>sample-freestyle</string>
+      <ranges>7</ranges>
+    </entry>
+    <entry>
+      <string>sample-freestyle2</string>
+      <ranges>3-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

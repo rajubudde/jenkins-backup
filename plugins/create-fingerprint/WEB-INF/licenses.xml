@@ -1,0 +1,5 @@
+<l:dependencies xmlns:l='licenses'>
+  <l:dependency name='Fingerprint Plugin' groupId='org.jenkins-ci.plugins' artifactId='create-fingerprint' version='1.2' url='https://wiki.jenkins-ci.org/display/JENKINS/Fingerprint+Plugin'>
+    <l:description />
+  </l:dependency>
+</l:dependencies>

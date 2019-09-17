@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: msanfacon
+Build-Jdk: 1.6.0_23
+Extension-Name: create-fingerprint
+Implementation-Title: create-fingerprint
+Implementation-Version: 1.2
+Group-Id: org.jenkins-ci.plugins
+Short-Name: create-fingerprint
+Long-Name: Fingerprint Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Fingerprint+Plugin
+Plugin-Version: 1.2
+Hudson-Version: 1.440
+Jenkins-Version: 1.440
+Plugin-Developers: Marc Sanfacon:marcsanfacon:marc.sanfacon@gmail.com
+
